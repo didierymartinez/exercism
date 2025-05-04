@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqueakyClean", "..\squeaky-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballMatchReports", "..\football-match-reports\FootballMatchReports.csproj", "{99E66813-A41B-412E-9450-20D9F0EA772F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsLogsLogs", "..\logs-logs-logs\LogsLogsLogs.csproj", "{24849A6A-5E2B-404E-8D6E-B61FDC581B24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{99E66813-A41B-412E-9450-20D9F0EA772F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99E66813-A41B-412E-9450-20D9F0EA772F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99E66813-A41B-412E-9450-20D9F0EA772F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24849A6A-5E2B-404E-8D6E-B61FDC581B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24849A6A-5E2B-404E-8D6E-B61FDC581B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24849A6A-5E2B-404E-8D6E-B61FDC581B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24849A6A-5E2B-404E-8D6E-B61FDC581B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
